@@ -147,5 +147,3 @@ legacy,Backup completed successfully.,System Notification
 
 
 ---
-
-Built with ❤️ to improve operational efficiency and log observability.
