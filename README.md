@@ -77,6 +77,7 @@ Logs Classification System/
 ├── models/
 │   └── log_hybrid_classifier.joblib
 ├── resources/
+│   ├── api_response_snapshot.png
 │   ├── flowchart.png
 │   ├── input.csv
 │   └── output.csv
